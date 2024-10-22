@@ -4,6 +4,7 @@
 
 Scrum Timer is a simple and effective tool to manage your Scrum meetings and keep your team on track. It's built with Next.js and features a responsive design, dark mode support, and local storage for saving participant information.
 
+
 ## Features
 
 - Set custom meeting duration
