@@ -25,9 +25,9 @@ Scrum Timer is a simple and effective tool to manage your Scrum meetings and kee
 
 ### Installation
 
-1. Clone the repository:
+1. Clone your GitHub forked repo:
    ```
-   git clone https://github.com/raulcanodev/scrumtimer.git
+   git clone https://github.com/<github_username>/scrumtimer.git
    cd scrumtimer
    ```
 
