@@ -49,7 +49,7 @@ Scrum Timer is a simple and effective tool to manage your Scrum meetings and kee
    yarn dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Usage
 
