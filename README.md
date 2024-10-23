@@ -4,6 +4,7 @@
 
 Scrum Timer is a simple and effective tool to manage your Scrum meetings and keep your team on track. It's built with Next.js and features a responsive design, dark mode support, and local storage for saving participant information.
 
+
 ## Features
 
 - Set custom meeting duration
@@ -24,9 +25,9 @@ Scrum Timer is a simple and effective tool to manage your Scrum meetings and kee
 
 ### Installation
 
-1. Clone the repository:
+1. Clone your GitHub forked repo:
    ```
-   git clone https://github.com/raulcanodev/scrumtimer.git
+   git clone https://github.com/<github_username>/scrumtimer.git
    cd scrumtimer
    ```
 
@@ -48,7 +49,7 @@ Scrum Timer is a simple and effective tool to manage your Scrum meetings and kee
    yarn dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Usage
 
